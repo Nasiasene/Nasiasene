@@ -1,6 +1,7 @@
 # Hey, I'm Davi Nasiasene Amorim! 😃
 
-I'm a Computer Science student at [Federal University of Paraíba (UFPB)](https://www.ufpb.br/). cCurrently deepening my knowledge in the area of ​​software development and data science.
+I'm a Computer Science student at [Federal University of Paraíba (UFPB)](https://www.ufpb.br/). 
+Currently deepening my knowledge in the area of ​​software development and data science.
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tiagotrindade03/)
