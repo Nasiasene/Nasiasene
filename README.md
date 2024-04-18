@@ -7,8 +7,8 @@ Currently deepening my knowledge in the area of ​​software development and d
 
 
 ## Interests:
+- Software Development. ⭐
 - Game Development. ⭐
-- Software Development.
 - Data Science.
 - Artifical Intelligence.
 
