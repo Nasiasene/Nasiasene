@@ -28,13 +28,3 @@ Currently deepening my knowledge in the area of ​​software development and d
 
 ## Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/tiagotrindade03/)
-
-
-## GitStats:
-
-
-<div>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiasene&layout=compact&theme=dark" alt="Davi's Most Used Languages">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Nasiasene&show_icons=true&theme=dark" alt="Davi's GitHub Stats">
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasiasene&theme=dark" alt="Davi's GitHub Streak" />
-</div>
