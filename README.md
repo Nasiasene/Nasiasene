@@ -25,6 +25,3 @@ Currently deepening my knowledge in the area of ​​software development and d
   <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="aws" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div>
-
-## Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/tiagotrindade03/)
